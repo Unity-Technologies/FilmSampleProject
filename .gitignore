@@ -1,0 +1,15 @@
+Temp/
+.vs/
+*.csproj
+*.sln
+obj/
+Library/
+
+
+/Library/
+_Bundles/
+filmtemplate.client/Library/
+filmtemplate.client/Assets/ConsolePro/
+filmtemplate.client/Assets/ConsolePro.meta
+filmtemplate.client/Recordings/
+filmtemplate.client/.vscode/
