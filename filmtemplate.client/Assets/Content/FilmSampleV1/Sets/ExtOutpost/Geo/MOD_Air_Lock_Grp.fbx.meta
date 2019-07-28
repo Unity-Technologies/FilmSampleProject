@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 62550a0093f15684fa04ffdc5165b47a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: MOD_Air_Lock_Al_Corner
+    100002: MOD_Air_Lock_Ceiling
+    100004: MOD_Air_Lock_CleanedupAirlock
+    100006: MOD_Air_Lock_Container
+    100008: MOD_Air_Lock_Container_01
+    100010: MOD_Air_Lock_Container_02
+    100012: MOD_Air_Lock_Container_03
+    100014: MOD_Air_Lock_Container_04
+    100016: MOD_Air_Lock_Container_Pipes_01
+    100018: MOD_Air_Lock_Container_Pipes_02
+    100020: MOD_Air_Lock_Doorpockets
+    100022: MOD_Air_Lock_EntryPanel
+    100024: MOD_Air_Lock_EntryPanel_Machine
+    100026: MOD_Air_Lock_EntryPanel_Machine_Controller_01
+    100028: MOD_Air_Lock_EntryPanel_Machine_Controller_02
+    100030: MOD_Air_Lock_EntryPanel_Machine_Pipes_01
+    100032: MOD_Air_Lock_EntryPanel_Machine_Pipes_02
+    100034: MOD_Air_Lock_EntryPanel_Machine_Pipes_03
+    100036: MOD_Air_Lock_EntryPanel_Machine_Pipes_04
+    100038: MOD_Air_Lock_EntryPanel_Pipes
+    100040: MOD_Air_Lock_Frame
+    100042: MOD_Air_Lock_Frame_B
+    100044: MOD_Air_Lock_Frame_Pipes_01
+    100046: MOD_Air_Lock_Frame_Pipes_02
+    100048: MOD_Air_Lock_Frame_R
+    100050: //RootNode
+    100052: MOD_Air_Lock_InnerTunnelwalls
+    100054: MOD_Air_Lock_Mezz
+    100056: MOD_Air_Lock_Mezz_Decking
+    100058: MOD_Air_Lock_Mezz_Decking_01
+    100060: MOD_Air_Lock_Mezz_Steps_Lrg
+    100062: MOD_Air_Lock_Piperack
+    100064: MOD_Air_Lock_Piperack_01
+    100066: MOD_Air_Lock_Piperack_02
+    100068: MOD_Air_Lock_Piperack_Lightbox
+    400000: MOD_Air_Lock_Al_Corner
+    400002: MOD_Air_Lock_Ceiling
+    400004: MOD_Air_Lock_CleanedupAirlock
+    400006: MOD_Air_Lock_Container
+    400008: MOD_Air_Lock_Container_01
+    400010: MOD_Air_Lock_Container_02
+    400012: MOD_Air_Lock_Container_03
+    400014: MOD_Air_Lock_Container_04
+    400016: MOD_Air_Lock_Container_Pipes_01
+    400018: MOD_Air_Lock_Container_Pipes_02
+    400020: MOD_Air_Lock_Doorpockets
+    400022: MOD_Air_Lock_EntryPanel
+    400024: MOD_Air_Lock_EntryPanel_Machine
+    400026: MOD_Air_Lock_EntryPanel_Machine_Controller_01
+    400028: MOD_Air_Lock_EntryPanel_Machine_Controller_02
+    400030: MOD_Air_Lock_EntryPanel_Machine_Pipes_01
+    400032: MOD_Air_Lock_EntryPanel_Machine_Pipes_02
+    400034: MOD_Air_Lock_EntryPanel_Machine_Pipes_03
+    400036: MOD_Air_Lock_EntryPanel_Machine_Pipes_04
+    400038: MOD_Air_Lock_EntryPanel_Pipes
+    400040: MOD_Air_Lock_Frame
+    400042: MOD_Air_Lock_Frame_B
+    400044: MOD_Air_Lock_Frame_Pipes_01
+    400046: MOD_Air_Lock_Frame_Pipes_02
+    400048: MOD_Air_Lock_Frame_R
+    400050: //RootNode
+    400052: MOD_Air_Lock_InnerTunnelwalls
+    400054: MOD_Air_Lock_Mezz
+    400056: MOD_Air_Lock_Mezz_Decking
+    400058: MOD_Air_Lock_Mezz_Decking_01
+    400060: MOD_Air_Lock_Mezz_Steps_Lrg
+    400062: MOD_Air_Lock_Piperack
+    400064: MOD_Air_Lock_Piperack_01
+    400066: MOD_Air_Lock_Piperack_02
+    400068: MOD_Air_Lock_Piperack_Lightbox
+    2300000: MOD_Air_Lock_Al_Corner
+    2300002: MOD_Air_Lock_Ceiling
+    2300004: MOD_Air_Lock_CleanedupAirlock
+    2300006: MOD_Air_Lock_Container_01
+    2300008: MOD_Air_Lock_Container_02
+    2300010: MOD_Air_Lock_Container_03
+    2300012: MOD_Air_Lock_Container_04
+    2300014: MOD_Air_Lock_Container_Pipes_01
+    2300016: MOD_Air_Lock_Container_Pipes_02
+    2300018: MOD_Air_Lock_Doorpockets
+    2300020: MOD_Air_Lock_EntryPanel_Machine_Controller_01
+    2300022: MOD_Air_Lock_EntryPanel_Machine_Controller_02
+    2300024: MOD_Air_Lock_EntryPanel_Machine_Pipes_01
+    2300026: MOD_Air_Lock_EntryPanel_Machine_Pipes_02
+    2300028: MOD_Air_Lock_EntryPanel_Machine_Pipes_03
+    2300030: MOD_Air_Lock_EntryPanel_Machine_Pipes_04
+    2300032: MOD_Air_Lock_EntryPanel_Pipes
+    2300034: MOD_Air_Lock_Frame_B
+    2300036: MOD_Air_Lock_Frame_Pipes_01
+    2300038: MOD_Air_Lock_Frame_Pipes_02
+    2300040: MOD_Air_Lock_Frame_R
+    2300042: MOD_Air_Lock_InnerTunnelwalls
+    2300044: MOD_Air_Lock_Mezz_Decking
+    2300046: MOD_Air_Lock_Mezz_Decking_01
+    2300048: MOD_Air_Lock_Mezz_Steps_Lrg
+    2300050: MOD_Air_Lock_Piperack_01
+    2300052: MOD_Air_Lock_Piperack_02
+    2300054: MOD_Air_Lock_Piperack_Lightbox
+    3300000: MOD_Air_Lock_Al_Corner
+    3300002: MOD_Air_Lock_Ceiling
+    3300004: MOD_Air_Lock_CleanedupAirlock
+    3300006: MOD_Air_Lock_Container_01
+    3300008: MOD_Air_Lock_Container_02
+    3300010: MOD_Air_Lock_Container_03
+    3300012: MOD_Air_Lock_Container_04
+    3300014: MOD_Air_Lock_Container_Pipes_01
+    3300016: MOD_Air_Lock_Container_Pipes_02
+    3300018: MOD_Air_Lock_Doorpockets
+    3300020: MOD_Air_Lock_EntryPanel_Machine_Controller_01
+    3300022: MOD_Air_Lock_EntryPanel_Machine_Controller_02
+    3300024: MOD_Air_Lock_EntryPanel_Machine_Pipes_01
+    3300026: MOD_Air_Lock_EntryPanel_Machine_Pipes_02
+    3300028: MOD_Air_Lock_EntryPanel_Machine_Pipes_03
+    3300030: MOD_Air_Lock_EntryPanel_Machine_Pipes_04
+    3300032: MOD_Air_Lock_EntryPanel_Pipes
+    3300034: MOD_Air_Lock_Frame_B
+    3300036: MOD_Air_Lock_Frame_Pipes_01
+    3300038: MOD_Air_Lock_Frame_Pipes_02
+    3300040: MOD_Air_Lock_Frame_R
+    3300042: MOD_Air_Lock_InnerTunnelwalls
+    3300044: MOD_Air_Lock_Mezz_Decking
+    3300046: MOD_Air_Lock_Mezz_Decking_01
+    3300048: MOD_Air_Lock_Mezz_Steps_Lrg
+    3300050: MOD_Air_Lock_Piperack_01
+    3300052: MOD_Air_Lock_Piperack_02
+    3300054: MOD_Air_Lock_Piperack_Lightbox
+    4300000: MOD_Air_Lock_Piperack_01
+    4300002: MOD_Air_Lock_Piperack_02
+    4300004: MOD_Air_Lock_Piperack_Lightbox
+    4300006: MOD_Air_Lock_Container_01
+    4300008: MOD_Air_Lock_Container_02
+    4300010: MOD_Air_Lock_Container_03
+    4300012: MOD_Air_Lock_Container_04
+    4300014: MOD_Air_Lock_Container_Pipes_01
+    4300016: MOD_Air_Lock_Container_Pipes_02
+    4300018: MOD_Air_Lock_EntryPanel_Pipes
+    4300020: MOD_Air_Lock_EntryPanel_Machine_Controller_01
+    4300022: MOD_Air_Lock_EntryPanel_Machine_Controller_02
+    4300024: MOD_Air_Lock_EntryPanel_Machine_Pipes_01
+    4300026: MOD_Air_Lock_EntryPanel_Machine_Pipes_02
+    4300028: MOD_Air_Lock_EntryPanel_Machine_Pipes_03
+    4300030: MOD_Air_Lock_EntryPanel_Machine_Pipes_04
+    4300032: MOD_Air_Lock_Mezz_Steps_Lrg
+    4300034: MOD_Air_Lock_Mezz_Decking_01
+    4300036: MOD_Air_Lock_Mezz_Decking
+    4300038: MOD_Air_Lock_Frame_Pipes_01
+    4300040: MOD_Air_Lock_Frame_Pipes_02
+    4300042: MOD_Air_Lock_Frame_R
+    4300044: MOD_Air_Lock_Frame_B
+    4300046: MOD_Air_Lock_CleanedupAirlock
+    4300048: MOD_Air_Lock_Ceiling
+    4300050: MOD_Air_Lock_Al_Corner
+    4300052: MOD_Air_Lock_InnerTunnelwalls
+    4300054: MOD_Air_Lock_Doorpockets
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Al_Corner
+    second: {fileID: 2100000, guid: cb5ff0cfc85e4674e89835000a0e5113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Ceiling
+    second: {fileID: 2100000, guid: 56fb2c6f1026c0641a3fb79923600887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_CleanedupAirlock_01
+    second: {fileID: 2100000, guid: f2f4b86cb49dc64468f88d795e3db684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_CleanedupAirlock_02
+    second: {fileID: 2100000, guid: 70e9a9223556e5e4eab365a7428e2391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_CleanedupAirlock_03
+    second: {fileID: 2100000, guid: f25d4224d1c1f85469d985a527fb4bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_CleanedupAirlock_04
+    second: {fileID: 2100000, guid: acb48db6329d028428474b2622ed052d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Container_01
+    second: {fileID: 2100000, guid: 670e06776c96908489c811ebb7f887a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Container_02
+    second: {fileID: 2100000, guid: 2412ffc9fafd0824e9c6254800c81c8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Doorpockets
+    second: {fileID: 2100000, guid: 9f62f9b4dc1f85944803982f83f15931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_EntryPanel
+    second: {fileID: 2100000, guid: d4cc05ba7ca4b7c4cafc79a0b51dd195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_InnerTunnelwalls
+    second: {fileID: 2100000, guid: 38420b76b22f5b54a9171b76f701fff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Mezz_01
+    second: {fileID: 2100000, guid: 49b8ac2da69f48c4ba5fd10aa4c6e71a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Lock_Mezz_02
+    second: {fileID: 2100000, guid: 17a1c5000fcdea9479d003463223203b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - FocalLength
+    - FilmWidth
+    - FilmHeight
+    - NearPlane
+    - FarPlane
+    - CameraProjectionType
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

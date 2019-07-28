@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 91430920c4fc8fb42a9d85d6be2a3ea1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: MOD_Air_Door_Variation_Buckle_L
+    100002: MOD_Air_Door_Variation_Buckle_R
+    100004: MOD_Air_Door_Variation_C
+    100006: //RootNode
+    100008: MOD_Air_Door_Variation_L
+    100010: MOD_Air_Door_Variation_Lock_L
+    100012: MOD_Air_Door_Variation_Lock_M
+    100014: MOD_Air_Door_Variation_Lock_R
+    100016: MOD_Air_Door_Variation_M
+    100018: MOD_Air_Door_Variation_R
+    100020: MOD_Air_DoorHandle_Variation
+    100022: MOD_Air_Door_Buckle_L
+    100024: MOD_Air_Door_Buckle_R
+    100026: MOD_Air_Door_C
+    100028: MOD_Air_Door_L
+    100030: MOD_Air_Door_Lock_L
+    100032: MOD_Air_Door_Lock_M
+    100034: MOD_Air_Door_Lock_R
+    100036: MOD_Air_Door_M
+    100038: MOD_Air_Door_R
+    100040: MOD_Air_DoorHandle
+    400000: MOD_Air_Door_Variation_Buckle_L
+    400002: MOD_Air_Door_Variation_Buckle_R
+    400004: MOD_Air_Door_Variation_C
+    400006: //RootNode
+    400008: MOD_Air_Door_Variation_L
+    400010: MOD_Air_Door_Variation_Lock_L
+    400012: MOD_Air_Door_Variation_Lock_M
+    400014: MOD_Air_Door_Variation_Lock_R
+    400016: MOD_Air_Door_Variation_M
+    400018: MOD_Air_Door_Variation_R
+    400020: MOD_Air_DoorHandle_Variation
+    400022: MOD_Air_Door_Buckle_L
+    400024: MOD_Air_Door_Buckle_R
+    400026: MOD_Air_Door_C
+    400028: MOD_Air_Door_L
+    400030: MOD_Air_Door_Lock_L
+    400032: MOD_Air_Door_Lock_M
+    400034: MOD_Air_Door_Lock_R
+    400036: MOD_Air_Door_M
+    400038: MOD_Air_Door_R
+    400040: MOD_Air_DoorHandle
+    2300000: MOD_Air_Door_Variation_Buckle_L
+    2300002: MOD_Air_Door_Variation_Buckle_R
+    2300004: MOD_Air_Door_Variation_C
+    2300006: MOD_Air_Door_Variation_L
+    2300008: MOD_Air_Door_Variation_Lock_L
+    2300010: MOD_Air_Door_Variation_Lock_M
+    2300012: MOD_Air_Door_Variation_Lock_R
+    2300014: MOD_Air_Door_Variation_M
+    2300016: MOD_Air_Door_Variation_R
+    2300018: MOD_Air_DoorHandle_Variation
+    2300020: MOD_Air_Door_Buckle_L
+    2300022: MOD_Air_Door_Buckle_R
+    2300024: MOD_Air_Door_C
+    2300026: MOD_Air_Door_L
+    2300028: MOD_Air_Door_Lock_L
+    2300030: MOD_Air_Door_Lock_M
+    2300032: MOD_Air_Door_Lock_R
+    2300034: MOD_Air_Door_M
+    2300036: MOD_Air_Door_R
+    2300038: MOD_Air_DoorHandle
+    3300000: MOD_Air_Door_Variation_Buckle_L
+    3300002: MOD_Air_Door_Variation_Buckle_R
+    3300004: MOD_Air_Door_Variation_C
+    3300006: MOD_Air_Door_Variation_L
+    3300008: MOD_Air_Door_Variation_Lock_L
+    3300010: MOD_Air_Door_Variation_Lock_M
+    3300012: MOD_Air_Door_Variation_Lock_R
+    3300014: MOD_Air_Door_Variation_M
+    3300016: MOD_Air_Door_Variation_R
+    3300018: MOD_Air_DoorHandle_Variation
+    3300020: MOD_Air_Door_Buckle_L
+    3300022: MOD_Air_Door_Buckle_R
+    3300024: MOD_Air_Door_C
+    3300026: MOD_Air_Door_L
+    3300028: MOD_Air_Door_Lock_L
+    3300030: MOD_Air_Door_Lock_M
+    3300032: MOD_Air_Door_Lock_R
+    3300034: MOD_Air_Door_M
+    3300036: MOD_Air_Door_R
+    3300038: MOD_Air_DoorHandle
+    4300000: MOD_Air_Door_Variation_C
+    4300002: MOD_Air_Door_Variation_M
+    4300004: MOD_Air_DoorHandle_Variation
+    4300006: MOD_Air_Door_Variation_R
+    4300008: MOD_Air_Door_Variation_Lock_M
+    4300010: MOD_Air_Door_Variation_Lock_R
+    4300012: MOD_Air_Door_Variation_Buckle_R
+    4300014: MOD_Air_Door_Variation_L
+    4300016: MOD_Air_Door_Variation_Lock_L
+    4300018: MOD_Air_Door_Variation_Buckle_L
+    4300020: MOD_Air_Door_C
+    4300022: MOD_Air_Door_M
+    4300024: MOD_Air_DoorHandle
+    4300026: MOD_Air_Door_L
+    4300028: MOD_Air_Door_Lock_M
+    4300030: MOD_Air_Door_Lock_L
+    4300032: MOD_Air_Door_Buckle_L
+    4300034: MOD_Air_Door_R
+    4300036: MOD_Air_Door_Lock_R
+    4300038: MOD_Air_Door_Buckle_R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Door_Variation_Grp_01
+    second: {fileID: 2100000, guid: b6d1b6c5ac85a1c47bf9772f31de3347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Air_Door_Variation_Grp_02
+    second: {fileID: 2100000, guid: c872c9f642b2bc14b864faf030332feb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - FocalLength
+    - FilmWidth
+    - FilmHeight
+    - NearPlane
+    - FarPlane
+    - CameraProjectionType
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
