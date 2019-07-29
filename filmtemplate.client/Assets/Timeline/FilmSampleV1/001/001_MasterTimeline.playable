@@ -258,7 +258,7 @@ MonoBehaviour:
   m_Name: Render Output
   m_EditorClassIdentifier: 
   m_Locked: 0
-  m_Muted: 0
+  m_Muted: 1
   m_CustomPlayableFullTypename: 
   m_AnimClip: {fileID: 0}
   m_Parent: {fileID: 11400000}
@@ -506,22 +506,35 @@ MonoBehaviour:
   outputFormat: 1
   captureAlpha: 0
   m_ImageInputSelector:
-    m_Selected: m_GameViewInputSettings
-    m_GameViewInputSettings:
+    m_Selected: gameViewInputSettings
+    gameViewInputSettings:
       allowTransparency: 0
-      outputHeight: 720
-      outputAspect: 0
-      forceEvenSize: 1
-    m_CameraInputSettings:
+      m_OutputResolution:
+        m_CustomWidth: 1024
+        m_CustomHeight: 1024
+        imageHeight: 0
+        maxSupportedHeight: 4320
+        m_AspectRatio:
+          m_CustomAspectX: 1
+          m_CustomAspectY: 1
+          m_ImageAspect: 1
+      flipFinalOutput: 0
+    cameraInputSettings:
       allowTransparency: 0
-      outputHeight: 0
-      outputAspect: 0
-      forceEvenSize: 1
-      source: 1
+      m_OutputResolution:
+        m_CustomWidth: 1024
+        m_CustomHeight: 1024
+        imageHeight: 0
+        maxSupportedHeight: 4320
+        m_AspectRatio:
+          m_CustomAspectX: 1
+          m_CustomAspectY: 1
+          m_ImageAspect: 1
+      source: 2
       cameraTag: 
       flipFinalOutput: 0
       captureUI: 0
-    m_Camera360InputSettings:
+    camera360InputSettings:
       allowTransparency: 0
       source: 2
       cameraTag: 
@@ -529,18 +542,23 @@ MonoBehaviour:
       renderStereo: 1
       stereoSeparation: 0.065
       mapSize: 1024
-      outputWidth: 1024
-      outputHeight: 2048
-    m_RenderTextureInputSettings:
+      m_OutputWidth: 1024
+      m_OutputHeight: 2048
+    renderTextureInputSettings:
       allowTransparency: 0
       renderTexture: {fileID: 0}
-    m_RenderTextureSamplerSettings:
+      flipFinalOutput: 0
+    renderTextureSamplerSettings:
       allowTransparency: 0
-      outputHeight: 720
-      outputAspect: 0
-      forceEvenSize: 1
       source: 1
-      renderSize: 720
+      m_RenderWidth: 1280
+      m_RenderHeight: 720
+      m_OutputWidth: 1280
+      m_OutputHeight: 720
+      outputAspectRatio:
+        m_CustomAspectX: 1
+        m_CustomAspectY: 1
+        m_ImageAspect: 1
       superSampling: 1
       superKernelPower: 16
       superKernelScale: 1

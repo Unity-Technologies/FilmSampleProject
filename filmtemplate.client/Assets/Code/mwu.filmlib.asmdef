@@ -1,0 +1,11 @@
+{
+    "name": "mwu.filmlib",
+    "references": [
+        "Cinemachine",
+        "Unity.TextMeshPro"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

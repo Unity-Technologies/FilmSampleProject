@@ -1,0 +1,12 @@
+{
+    "name": "mwu.filmlib.editor",
+    "references": [
+        "mwu.filmlib"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
