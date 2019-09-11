@@ -2,10 +2,16 @@
     "name": "mwu.filmlib",
     "references": [
         "Cinemachine",
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "Unity.Timeline"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
 }
