@@ -351,6 +351,7 @@ MonoBehaviour:
   m_InfiniteClipTimeOffset: 0
   m_InfiniteClipRemoveOffset: 0
   m_InfiniteClipApplyFootIK: 1
+  mInfiniteClipLoop: 0
   m_MatchTargetFields: 63
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
@@ -388,7 +389,7 @@ MonoBehaviour:
   m_Version: 3
   m_AnimClip: {fileID: 0}
   m_Locked: 0
-  m_Muted: 0
+  m_Muted: 1
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 114352152353732726}
@@ -484,6 +485,7 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
   m_ApplyFootIK: 1
+  m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
 --- !u!114 &114219102211014016
@@ -501,7 +503,7 @@ MonoBehaviour:
   m_Version: 3
   m_AnimClip: {fileID: 0}
   m_Locked: 0
-  m_Muted: 1
+  m_Muted: 0
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 114952376365365886}
@@ -585,6 +587,7 @@ MonoBehaviour:
   m_InfiniteClipTimeOffset: 0
   m_InfiniteClipRemoveOffset: 0
   m_InfiniteClipApplyFootIK: 1
+  mInfiniteClipLoop: 0
   m_MatchTargetFields: 63
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
@@ -719,6 +722,7 @@ MonoBehaviour:
   m_InfiniteClipTimeOffset: 0
   m_InfiniteClipRemoveOffset: 0
   m_InfiniteClipApplyFootIK: 1
+  mInfiniteClipLoop: 0
   m_MatchTargetFields: 63
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
@@ -894,6 +898,7 @@ MonoBehaviour:
   m_InfiniteClipTimeOffset: 0
   m_InfiniteClipRemoveOffset: 0
   m_InfiniteClipApplyFootIK: 1
+  mInfiniteClipLoop: 0
   m_MatchTargetFields: 63
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
@@ -923,6 +928,7 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
   m_ApplyFootIK: 1
+  m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
 --- !u!114 &114728367980990514
@@ -983,6 +989,7 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
   m_ApplyFootIK: 1
+  m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
 --- !u!114 &114856141563816138
@@ -1097,6 +1104,7 @@ MonoBehaviour:
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
   m_ApplyFootIK: 1
+  m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
 --- !u!114 &114872016356084932
@@ -1114,7 +1122,7 @@ MonoBehaviour:
   m_Version: 3
   m_AnimClip: {fileID: 0}
   m_Locked: 0
-  m_Muted: 1
+  m_Muted: 0
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 114952376365365886}
@@ -1231,7 +1239,7 @@ MonoBehaviour:
   m_Version: 3
   m_AnimClip: {fileID: 0}
   m_Locked: 0
-  m_Muted: 0
+  m_Muted: 1
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 114352152353732726}
@@ -1246,6 +1254,7 @@ MonoBehaviour:
   m_InfiniteClipTimeOffset: 0
   m_InfiniteClipRemoveOffset: 0
   m_InfiniteClipApplyFootIK: 1
+  mInfiniteClipLoop: 0
   m_MatchTargetFields: 63
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
