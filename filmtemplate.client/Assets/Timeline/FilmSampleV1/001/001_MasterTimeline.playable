@@ -520,10 +520,10 @@ MonoBehaviour:
     m_FileName: image_<Frame>
   outputFormat: 1
   captureAlpha: 0
+  captureHDR: 0
   m_ImageInputSelector:
     m_Selected: gameViewInputSettings
     gameViewInputSettings:
-      allowTransparency: 0
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
@@ -535,7 +535,6 @@ MonoBehaviour:
           m_ImageAspect: 1
       flipFinalOutput: 0
     cameraInputSettings:
-      allowTransparency: 0
       m_OutputResolution:
         m_CustomWidth: 1024
         m_CustomHeight: 1024
@@ -550,7 +549,6 @@ MonoBehaviour:
       flipFinalOutput: 0
       captureUI: 0
     camera360InputSettings:
-      allowTransparency: 0
       source: 2
       cameraTag: 
       flipFinalOutput: 0
@@ -560,11 +558,9 @@ MonoBehaviour:
       m_OutputWidth: 1024
       m_OutputHeight: 2048
     renderTextureInputSettings:
-      allowTransparency: 0
       renderTexture: {fileID: 0}
       flipFinalOutput: 0
     renderTextureSamplerSettings:
-      allowTransparency: 0
       source: 1
       m_RenderWidth: 1280
       m_RenderHeight: 720
