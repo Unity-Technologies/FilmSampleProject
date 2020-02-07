@@ -9,7 +9,7 @@ This package contains an example Unity project setup for creating linear content
 Instructions
 ============
 
-This project was created with Unity 2018.2f2.
+This project was created with Unity 2018.2f2, and has been updated to the 19.3.0f6 release.
 
 Loading the Unity Film Sample Project
 -------------------------------------
