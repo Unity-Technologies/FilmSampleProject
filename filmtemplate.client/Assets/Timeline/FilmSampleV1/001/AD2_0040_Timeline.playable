@@ -43,6 +43,7 @@ MonoBehaviour:
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 24
+    m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: -5188627153324688010}
 --- !u!114 &114150586633143994
@@ -329,7 +330,7 @@ MonoBehaviour:
   m_Version: 3
   m_AnimClip: {fileID: 0}
   m_Locked: 0
-  m_Muted: 0
+  m_Muted: 1
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 114210967127392836}
@@ -494,8 +495,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 3
   m_AnimClip: {fileID: 0}
-  m_Locked: 1
-  m_Muted: 1
+  m_Locked: 0
+  m_Muted: 0
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
   m_Parent: {fileID: 114664314369418392}
